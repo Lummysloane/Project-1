@@ -14,7 +14,7 @@
 
 6. mysql> exit
 
-[mysql.png](
+[mysql.png](https://github.com/Lummysloane/Project-1/blob/main/mysql%20exit.png)
 
 [mysql.png](https://github.com/Lummysloane/Project-1/blob/main/MYSQL.png)
 
