@@ -16,7 +16,7 @@
 
 [mysql.png](https://github.com/Lummysloane/Project-1/blob/main/mysql%20exit.png)
 
-[mysql.png](https://github.com/Lummysloane/Project-1/blob/main/MYSQL.png)
+[mysql-exit.png](https://github.com/Lummysloane/Project-1/blob/main/MYSQL.png)
 
 sudo mysql -p
 
