@@ -38,6 +38,8 @@ sudo systemctl reload apache2
 
 vim /var/www/projectlamp/index.php
 
+![php.png](https://github.com/Lummysloane/Project-1/blob/main/PHP.png)
+
 
 
 
