@@ -1,4 +1,3 @@
-## the boy 
+## sudo systemctl status apache2
 
-### the boy
-
+![
