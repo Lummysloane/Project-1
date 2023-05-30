@@ -18,12 +18,24 @@
 
 [mysql-exit.png](https://github.com/Lummysloane/Project-1/blob/main/MYSQL.png)
 
-sudo mysql -p
+7. sudo mysql -p
 
-sudo apt install php libapache2-mod-php php-mysql
+8. sudo apt install php libapache2-mod-php php-mysql
 
-php -v
+9. php -v
 
 [php -v.png](https://github.com/Lummysloane/Project-1/blob/main/php%20-v.png)
+
+10. sudo mkdir /var/www/projectlamp
+
+11. sudo vi /etc/apache2/sites-available/projectlamp.conf
+
+
+
+
+
+
+
+
 
 
