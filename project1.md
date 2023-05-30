@@ -7,3 +7,10 @@
 3. curl http://localhost:80
 
 !([ubuntu.png](https://github.com/Lummysloane/Project-1/blob/main/Ubuntu.png)
+
+4. sudo apt install mysql-server
+
+5. sudo mysql
+
+6. mysql> exit
+
