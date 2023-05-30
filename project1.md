@@ -1,5 +1,7 @@
-# 1. sudo systemctl status apache2
+# 1. sudo apt update
+
+# 2. sudo systemctl status apache2
 
 !([Running Apache2.png](https://github.com/Lummysloane/Project-1/blob/main/Running%20Apache2.png))
 
-# 2. curl http://localhost:80
+# 3. curl http://localhost:80
