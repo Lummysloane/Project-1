@@ -24,6 +24,6 @@ sudo apt install php libapache2-mod-php php-mysql
 
 php -v
 
-[php -v.png](
+[php -v.png](https://github.com/Lummysloane/Project-1/blob/main/php%20-v.png)
 
 
