@@ -15,3 +15,4 @@
 6. mysql> exit
 
 [mysql.png](https://github.com/Lummysloane/Project-1/blob/main/MYSQL.png)
+
