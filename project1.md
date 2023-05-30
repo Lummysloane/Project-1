@@ -30,6 +30,14 @@
 
 11. sudo vi /etc/apache2/sites-available/projectlamp.conf
 
+[LAMP.png](https://github.com/Lummysloane/Project-1/blob/main/LAMP.png)
+
+sudo vim /etc/apache2/mods-enabled/dir.conf
+
+sudo systemctl reload apache2
+
+vim /var/www/projectlamp/index.php
+
 
 
 
