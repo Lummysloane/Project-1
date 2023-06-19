@@ -41,6 +41,7 @@ vim /var/www/projectlamp/index.php
 [php.png](https://github.com/Lummysloane/Project-1/blob/main/PHP.png)
 
 <img width="775" alt="LAMP" src="https://github.com/Lummysloane/Project-1/assets/131771280/fbe861ba-4740-4ced-80bf-f76d499604dc">
+<img width="813" alt="Ubuntu" src="https://github.com/Lummysloane/Project-1/assets/131771280/c39e8cac-e64c-47c7-83d5-af81617bd7ae">
 
 
 
